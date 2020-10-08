@@ -9,7 +9,7 @@ Version 2.0 of [Gamer's Server](https://github.com/yewyewXD/Gamer-s-Server-V1), 
 **Not in production**
 
 Started on: Unknown <br>
-Completed in: 2019 <br>
+Completed in: 30 Jun 2019 <br>
 
 ## Screenshots
 
